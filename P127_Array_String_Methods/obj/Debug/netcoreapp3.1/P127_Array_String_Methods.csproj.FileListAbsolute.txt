@@ -1,0 +1,14 @@
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\bin\Debug\netcoreapp3.1\P127_Array_String_Methods.exe
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\bin\Debug\netcoreapp3.1\P127_Array_String_Methods.deps.json
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\bin\Debug\netcoreapp3.1\P127_Array_String_Methods.runtimeconfig.json
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\bin\Debug\netcoreapp3.1\P127_Array_String_Methods.runtimeconfig.dev.json
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\bin\Debug\netcoreapp3.1\P127_Array_String_Methods.dll
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\bin\Debug\netcoreapp3.1\P127_Array_String_Methods.pdb
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.csproj.AssemblyReference.cache
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.AssemblyInfoInputs.cache
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.AssemblyInfo.cs
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.csproj.CoreCompileInputs.cache
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.dll
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.pdb
+C:\Users\isasa\Desktop\HomeWork\P127_Array_String_Methods\P127_Array_String_Methods\obj\Debug\netcoreapp3.1\P127_Array_String_Methods.genruntimeconfig.cache
